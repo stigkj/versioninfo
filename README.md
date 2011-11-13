@@ -12,3 +12,4 @@ TODO
 * The servlet itself reading a specific JSON file from all jars in the webapp
      * In addition runtimne information is included (java version, IP address, etc)
 * An addon that sends all this info to a ZooKeeper given an URL as a system property
+* Need a better name for the project
